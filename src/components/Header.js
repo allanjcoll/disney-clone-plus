@@ -67,6 +67,7 @@ const NavMenu = styled.div`
         display: flex;
         align-items: center;
         padding: 0 12px;
+        cursor: pointer;
 
         img {
             height: 20px;
@@ -96,7 +97,7 @@ const NavMenu = styled.div`
                 opacity: 1;
             }
         }
-        
+
     }
 `
 const UserImg = styled.img`
